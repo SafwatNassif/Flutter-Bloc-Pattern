@@ -1,0 +1,4 @@
+enum StateLoader {
+  loading,notLoading
+}
+
